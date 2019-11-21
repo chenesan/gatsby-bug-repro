@@ -8,6 +8,7 @@ exports.createPages = ({ graphql, actions }) => {
           edges {
             node {
               excerpt
+              html
             }
           }
         }

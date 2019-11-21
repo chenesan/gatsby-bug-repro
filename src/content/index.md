@@ -1,1 +1,1 @@
-The code inside code tag `code` will not contained in excerpt.
+The code inside code tag `HERE IS MY CODE` will not contained in excerpt.
