@@ -1,0 +1,1 @@
+The code inside code tag `code` will not contained in excerpt.
